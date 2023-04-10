@@ -1,0 +1,260 @@
+sale,discount,product,color,discounted_price,original_price,size
+SOLD OUT,NA,Vera Dress | Black,Black,$81.42 ,$108.65 ,NA
+SOLD OUT,NA,Parisa Maxi Mini Dress | Black,Black,$70.52 ,$81.42 ,NA
+SOLD OUT,NA,Island Earrings | Gold Color,Gold,NA,$12.25 ,NA
+SOLD OUT,NA,Riley Bracelets,NA,NA,$26.96 ,NA
+SOLD OUT,NA,Lili Necklace,NA,NA,$26.96 ,NA
+SOLD OUT,NA,Solo Necklace,NA,NA,$31.31 ,NA
+SALE,24%,Sasha Top,Brown,$35.13 ,$46.02 ,NA
+SALE,18%,Juliette Satin Playsuit,Black,$48.74 ,$59.63 ,"S, M, L"
+SALE,68%,Blossom Set,Green,$20.42 ,$63.99 ,"S, M, L"
+SALE,58%,Desire Dress,Red,$34.04 ,$81.42 ,"M, L"
+SALE,65%,Maisia Bikini Set,Cayan,$14.98 ,$42.21 ,"M, L"
+SALE,49%,Amelia Bikini Set,Black,$21.51 ,$42.21 ,"S, M"
+SALE,48%,Ruby Bikini Set,Black,$20.42 ,$39.48 ,"S, M, L"
+SALE,63%,Kaya Beach Dress,Lime,$40.57 ,$108.65 ,Free
+SALE,66%,Delusion Set,Black,$26.96 ,$80.33 ,"M, L"
+SALE,65%,Maisia Bikini Set,Yellow,$14.98 ,$42.21 ,L
+SALE,59%,Maisie Tanning Bikini Set,NA,$16.07 ,$39.48 ,"S, M, L"
+SALE,61%,Tina Crochet Cover-up,White,$10.62 ,$26.96 ,"S, M, L"
+SALE,67%,Juetta Jumpsuit,Black,$26.96 ,$80.87 ,"S, M, L"
+SALE,55%,Mary Cover Up,Black,$18.79 ,$42.21 ,L
+SALE,43%,Anika Dress,White,$36.76 ,$63.99 ,S
+SALE,40%,Chicky Shorts,Black,$20.42 ,$34.04 ,"XS, S"
+SALE,34%,Sensation Swimsuit,Black,$26.96 ,$40.84 ,"S, M, L"
+SALE,34%,Sensation Swimsuit,White,$26.96 ,$40.84 ,"S, M, L"
+SALE,45%,Chico Set,Yellow,$26.96 ,$49.01 ,"S, M, L"
+SALE,65%,Flora Bikini Set,Blue,$18.79 ,$54.19 ,"S, M, L"
+SALE,67%,Justina Jumpsuit,Peach,$26.96 ,$80.87 ,"S, M, L, XL"
+SALE,57%,Raisa Playsuit,White,$32.40 ,$75.43 ,"M, L"
+SALE,67%,Tanika Top,White,$26.96 ,$81.42 ,"S, M, L"
+SALE,41%,New York Dress,Orange,$47.65 ,$81.42 ,"XS, S, M, L"
+SALE,22%,Sheida Dress,Beige,$47.65 ,$61.27 ,"S, L"
+SALE,39%,Yaran Set,Yellow,$54.19 ,$88.50 ,"XS, S"
+SALE,45%,Kiara Jumpsuit,Orange,$34.04 ,$62.36 ,"XS, S, M, L"
+SALE,36%,Eden Dress,White,$47.65 ,$74.88 ,"XS, S, M"
+SALE,61%,Nora Dress,Light Pink,$26.96 ,$69.43 ,"XS, S, M, L"
+SALE,60%,Blossom Dress,White,$32.40 ,$81.42 ,"M, L"
+SALE,71%,Juno Set,Black,$20.42 ,$69.43 ,"S, M"
+SALE,50%,Tibila Mesh Blouse,White,$26.96 ,$54.19 ,"S, M, L"
+SALE,50%,Bianca Long Sleeve Sheer Top,Off White,$26.96 ,$54.19 ,"L, XL"
+SALE,30%,Kimano Sequin Maxi Dress & Cover Up,Black,$190.33 ,$272.02 ,"S, M, L"
+SALE,74%,Kaya Beach Dress,Turquoise,$35.13 ,$135.87 ,Free
+SALE,67%,Damayanti Maxi Dress,Black,$26.96 ,$81.42 ,"L, XL"
+SALE,50%,Tamela Top,Black,$26.96 ,$54.19 ,"S, M, L"
+SALE,43%,Thea Dress - Green,Green,$26.96 ,$47.65 ,"S, M, L"
+SALE,33%,Lara Jumpsuit,Yellow & Pink,$54.19 ,$80.87 ,"S, M"
+SALE,50%,Zina Playsuit,White,$26.96 ,$54.19 ,"S, M, L"
+SALE,52%,Clio Dress,Light Pink,$25.87 ,$53.64 ,"S, M, L"
+SALE,58%,Nicole Dress,Black,$26.96 ,$63.99 ,"S, M, L"
+SALE,50%,Katie Midi Sheer Dress,Black,$26.96 ,$53.64 ,S
+SALE,42%,Thalia Dress,Green,$31.31 ,$54.19 ,S
+SALE,49%,Bingo Knit Top,Black,$9.53 ,$18.79 ,"S, M"
+SALE,47%,Bri Bikini Set,Red,$21.51 ,$40.84 ,"S, M, L"
+SALE,32%,Seashells Bikini Set,Black,$34.04 ,$50.37 ,"S, M, L"
+SALE,45%,Chico Set,Blue,$26.96 ,$49.01 ,NA
+SALE,57%,Aoife Set,Pink,$26.96 ,$62.36 ,NA
+SALE,49%,Persephone Set,Green,$40.57 ,$80.33 ,NA
+SALE,37%,Una Cover Up,Beige,$26.96 ,$42.75 ,NA
+SALE,41%,Eva Set,Gray,$40.03 ,$68.07 ,NA
+SALE,57%,Aoife Set,Yellow Green,$26.96 ,$62.36 ,NA
+SALE,41%,Florence Bikini Set,Yellow,$23.14 ,$39.48 ,NA
+SALE,50%,Lottie Set,Dark Blue,$40.57 ,$81.42 ,NA
+SALE,49%,Amelia Bikini Set,Pink,$21.51 ,$42.21 ,NA
+SALE,50%,Jacinta Cardigan Sequin & Beaded Top,Black,$54.19 ,$108.65 ,NA
+SALE,69%,Desideria Maxi Dress,White,$34.04 ,$108.65 ,NA
+SALE,31%,Dotty Maxi Dress,Black,$61.27 ,$88.50 ,NA
+SALE,52%,Como Knit Dress,Khaki,$20.42 ,$42.21 ,NA
+SALE,52%,Kylie Dress,Orange,$20.42 ,$42.21 ,NA
+SALE,49%,Bingo Knit Top,White,$9.53 ,$18.79 ,NA
+SALE,45%,Juna Blouse,White,$18.79 ,$34.04 ,NA
+SALE,49%,Persephone Set,Pink,$40.57 ,$80.33 ,NA
+SALE,70%,Freya Bikini Set,NA,$16.07 ,$54.19 ,"S, M, L"
+SALE,49%,Millie Set,Lilac,$40.57 ,$78.97 ,"S, M, L"
+SALE,41%,Eva Set,Peach,$40.03 ,$68.07 ,"S, M, L"
+SALE,57%,Evie Set,Pink,$35.13 ,$81.42 ,NA
+SALE,51%,Jalessa Beaded Jacket,Black,$66.71 ,$135.87 ,"S, M, L"
+SALE,56%,Karen Maxi Dress & Cover Up,Beige,$54.19 ,$122.26 ,"S, M, L"
+SALE,60%,Dalila Maxi Dress,NA,$26.96 ,$66.71 ,"S, M, L"
+SALE,64%,Brandi Beaded Top,Black,$39.48 ,$108.65 ,"M, L, XL"
+SALE,64%,Brandi Beaded Top,Beige,$39.48 ,$108.65 ,M
+SALE,62%,Bice Blouse,White,$13.34 ,$35.13 ,"petit S, petit M, petit L"
+SALE,50%,Tala Mesh Top,Beige,$26.96 ,$54.19 ,NA
+SALE,50%,Tala Mesh Top,Black,$26.96 ,$54.19 ,NA
+SALE,25%,Vera Dress,Gray,$81.42 ,$108.65 ,NA
+SALE,51%,Jalessa Beaded Jacket,Beige,$66.71 ,$135.87 ,NA
+SALE,72%,Tazia Long Sleeve Blouse,White,$14.98 ,$54.19 ,NA
+SALE,61%,Livia Knit Top,Nude,$13.34 ,$34.04 ,NA
+SALE,23%,Bessie Backless Dress & Headscarf Scarf,Turquoise & Purple,$62.36 ,$81.42 ,S
+SALE,33%,Tilda Mesh Beaded Cardigan Top,Black,$108.65 ,$163.10 ,NA
+SALE,43%,Traviata Sequin & Beaded Top,Off-white,$108.65 ,$190.33 ,"S, M, L"
+SALE,13%,Jay Earrings,Blue,$36.76 ,$42.21 ,NA
+SALE,13%,Jay Earrings,Black,$36.76 ,$42.21 ,NA
+SALE,13%,Jay Earrings,Colourful,$36.76 ,$42.21 ,NA
+SALE,62%,Negin Dress,Purple,$20.42 ,$54.19 ,NA
+SALE,39%,Bermuda Dress,Orange,$39.48 ,$65.08 ,NA
+SALE,43%,Maya Dress,Green,$26.96 ,$47.65 ,NA
+SALE,58%,SAMIRA DRESS - LIGHT PINK,LIGHT,$26.96 ,$64.53 ,NA
+SALE,44%,Alyne Set,Blue,$34.04 ,$61.27 ,NA
+SALE,35%,Arezoo Dress,Peach,$42.21 ,$64.53 ,NA
+SALE,50%,Sadie Dress,Pink,$26.96 ,$54.19 ,NA
+SALE,58%,Anna Dress,Purple,$26.96 ,$63.99 ,NA
+SALE,23%,Delia Dress,Pink,$37.30 ,$48.20 ,NA
+SALE,50%,Forest Girl Knit Cover Up,White,$26.96 ,$54.19 ,NA
+SALE,50%,Ida Dress,Green,$26.96 ,$54.19 ,NA
+SALE,38%,Hestia Cover Up,Orange,$26.96 ,$43.29 ,NA
+SALE,58%,Nicole Dress,Rosy Brown,$26.96 ,$63.99 ,NA
+SALE,52%,Margaret Dress,Blue,$25.87 ,$54.19 ,NA
+SALE,55%,Selene Knit Top,White,$12.25 ,$26.96 ,NA
+SALE,48%,Tessa Set,Orange,$32.40 ,$62.36 ,NA
+SALE,13%,Jay Earrings,Forest Green,$36.76 ,$42.21 ,NA
+SALE,23%,Denis Necklace,NA,$32.40 ,$42.21 ,NA
+SALE,66%,Delusion Set,Blush,$26.96 ,$80.33 ,NA
+SALE,50%,Beatrix Set,Maroon,$40.57 ,$81.42 ,"S, M"
+SALE,75%,Cara Set,White,$13.34 ,$54.19 ,"S, M, L"
+SALE,62%,Ruby Bikini Set,White,$20.42 ,$54.19 ,NA
+SALE,49%,Millie Set,Cayan,$40.57 ,$78.97 ,"XS, S, M, L"
+SALE,47%,Winifred Set,Black,$39.48 ,$74.88 ,"S, M, L"
+SALE,57%,Evie Set,White,$35.13 ,$81.42 ,"XS, S, M, L"
+SALE,32%,Gina Set,NA,$46.29 ,$68.07 ,L
+SALE,24%,Gold Plated Cerys Earrings,NA,$20.42 ,$26.96 ,"XS, S, M, L"
+SALE,15%,Novah Necklace,NA,$31.31 ,$36.76 ,NA
+NA,NA,Elsie Bikini Set | Green,Green,NA,$18.79 ,"L,M"
+NA,NA,Santorini Dress | Black,Black,NA,$88.50 ,",M/L"
+NA,NA,Boho Shell Set | White,White,NA,$18.79 ,NA
+NA,NA,Harmony Dress - Yellow,Yellow,NA,$47.65 ,",M"
+NA,NA,Layla Set | Green,Green,NA,$48.74 ,NA
+NA,NA,Eleni Cotton Pants | Beige,Beige,NA,$40.57 ,",S"
+NA,NA,Forever Zoe Gift Card,NA,NA,$54.46 ,NA
+NA,NA,Leaf Bangle | Gold Colour,Gold,NA,$16.07 ,NA
+NA,NA,Seema Knit Top | White,White,NA,$26.96 ,",M"
+NA,NA,Alice Large Round Earrings | Gold Color,Gold,NA,$20.42 ,NA
+NA,NA,Maya Earrings | Yellow,Yellow,NA,$14.98 ,NA
+NA,NA,Round Nipple Covers,NA,NA,$5.45 ,NA
+NA,NA,Camila Pearl Necklace,NA,NA,$16.07 ,NA
+NA,NA,KARISA DRESS - YELLOW,YELLOW,NA,$46.02 ,"M,S"
+NA,NA,Lee Shorts | Beige,Beige,NA,$31.31 ,NA
+NA,NA,Lee Top Bra | Black,Black,NA,$18.79 ,"L,M"
+NA,NA,Galaxy Earrings,NA,NA,$14.98 ,NA
+NA,NA,Gold Plated CL Earrings,NA,NA,$12.25 ,NA
+NA,NA,Harper Earrings,NA,NA,$14.98 ,NA
+NA,NA,Jay Earrings | Turquoise,Turquoise,NA,$21.51 ,NA
+NA,NA,Gold Plated Arrow Bangle,NA,NA,$13.34 ,NA
+NA,NA,Gold Plated Twisted Ear Cuff,NA,NA,$13.34 ,NA
+NA,NA,Alejandra Necklace,NA,NA,$26.96 ,NA
+NA,NA,Punk Earrings,NA,NA,$14.98 ,NA
+NA,NA,Vera Kimono | Orange,Orange,NA,$43.29 ,"L,M"
+NA,NA,Crop Tube Top | White,White,NA,$26.96 ,"L,M"
+NA,NA,Low Waisted Seamless Knickers | Black,Black,NA,$9.53 ,"L,M"
+NA,NA,Bahiti Straw Beach Bag,NA,NA,$35.13 ,NA
+NA,NA,Asenath Boho Straw Hat,NA,NA,$31.31 ,NA
+NA,NA,Shell Choker,NA,NA,$18.79 ,NA
+NA,NA,Ella Necklace,NA,NA,$26.96 ,NA
+NA,NA,Evelyn Earrings,NA,NA,$17.70 ,NA
+NA,NA,Lee Top Bra | White,White,NA,$18.79 ,",M"
+NA,NA,Gold Plated Clementine Ear Cuffs,NA,NA,$14.98 ,NA
+NA,NA,Paris Backless Maxi Dress | Nude,Nude,NA,$116.81 ,",M"
+NA,NA,Paris Backless Maxi Dress | Yellow,Yellow,NA,$116.81 ,",M"
+NA,NA,Hestia Maxi Dress | Black,Black,NA,$119.54 ,",M"
+NA,NA,Hestia Maxi Dress | Pink,Pink,NA,$119.54 ,",M"
+NA,NA,Adonis Dress | Sand,Sand,NA,$135.87 ,",M"
+NA,NA,Adonis Dress | White,White,NA,$135.87 ,",M"
+NA,NA,Suzi Natural Feathers Headband,NA,NA,$54.19 ,NA
+NA,NA,Melody Skirt | Pink,Pink,NA,$54.19 ,",M"
+NA,NA,Cosima Shorts | Black & Gold,Black,NA,$54.19 ,"XL,L"
+NA,NA,Bebe Natural Feathers Headband,NA,NA,$43.29 ,NA
+NA,NA,Serena Mini Dress | Pink,Pink,NA,$67.80 ,",L"
+NA,NA,Feathers Boho Hair Band,NA,NA,$35.13 ,NA
+NA,NA,Elf Earrings | Gold Color,Gold,NA,$12.25 ,NA
+NA,NA,Mesh Laundry Zipper Bag,NA,,$4.08 ,"XS 40x28cm,S 48x38cm"
+NA,NA,Square Earrings,NA,NA,$6.81 ,NA
+NA,NA,Lilian Necklace,NA,NA,$26.96 ,NA
+NA,NA,Round Chain Earrings,NA,NA,$6.81 ,NA
+NA,NA,Low Waisted Seamless Knickers | Beige,Beige,NA,$9.53 ,"L,M"
+NA,NA,Strapless C-String Thong,NA,NA,$12.25 ,"L,M"
+NA,NA,Akila Straw Bag | Orange,Orange,NA,$35.13 ,NA
+NA,NA,Akila Straw Bag | Green,Green,NA,$35.13 ,NA
+NA,NA,Anippe Boho Straw Hat,NA,NA,$31.31 ,NA
+NA,NA,Sofiya Belt,NA,NA,$14.98 ,NA
+NA,NA,Rose Earrings,NA,NA,$12.25 ,NA
+NA,NA,Anat Bracelets,NA,NA,$12.25 ,NA
+NA,NA,Boho Shell Set | Black,Black,NA,$18.79 ,NA
+NA,NA,Dina Bracelets,NA,NA,$17.70 ,NA
+NA,NA,Clio Turquoise Bracelet,NA,NA,$13.34 ,NA
+NA,NA,Shari Rose Earrings,NA,NA,$13.34 ,NA
+NA,NA,Star Pendant,NA,NA,$10.62 ,NA
+NA,NA,Hand Pendant,NA,NA,$10.62 ,NA
+NA,NA,Isla Necklace,NA,NA,$26.96 ,NA
+NA,NA,Julia Earrings,NA,NA,$17.70 ,NA
+NA,NA,Tina Earrings,NA,NA,$12.25 ,NA
+NA,NA,Ray Necklace,NA,NA,$26.96 ,NA
+NA,NA,Valley Necklace,NA,NA,$21.51 ,NA
+NA,NA,Sadia Necklace,NA,NA,$24.23 ,NA
+NA,NA,Holy Necklace,NA,NA,$24.23 ,NA
+NA,NA,Cara Necklace,NA,NA,$24.23 ,NA
+NA,NA,Maia Necklace,NA,NA,$21.51 ,NA
+NA,NA,Nona Necklace,NA,NA,$21.51 ,NA
+NA,NA,Mim Bracelets,NA,NA,$13.34 ,NA
+NA,NA,Mia Earrings,NA,NA,$9.53 ,NA
+NA,NA,Vivi Earrings,NA,NA,$17.70 ,NA
+NA,NA,Butterfly Ear Cuffs / Earrings,NA,NA,$17.70 ,NA
+NA,NA,Ottoman Earrings,NA,NA,$12.25 ,NA
+NA,NA,Breeze Earrings | Dark Blue,Dark,NA,$17.70 ,NA
+NA,NA,Breeze Earrings | Red,Red,NA,$17.70 ,NA
+NA,NA,Breeze Earrings | Yellow,Yellow,NA,$17.70 ,NA
+NA,NA,Alexandra Earrings | White,White,NA,$34.04 ,NA
+NA,NA,Alexandra Earrings | Dark Blue,Dark,NA,$34.04 ,NA
+NA,NA,Alexandra Earrings | Black,Black,NA,$34.04 ,NA
+NA,NA,Alexandra Earrings | Aqua,Aqua,NA,$34.04 ,NA
+NA,NA,Laura Earrings | Gold,Gold,NA,$13.34 ,NA
+NA,NA,Laura Earrings | Silver,Silver,NA,$13.34 ,NA
+NA,NA,Punk Bracelet,NA,NA,$21.51 ,NA
+NA,NA,Gold Plated Rosin Necklace,NA,NA,$35.40 ,NA
+NA,NA,Salsa Triple Chain Necklace,NA,NA,$26.96 ,NA
+NA,NA,Leah Necklace,NA,NA,$26.96 ,NA
+NA,NA,Fariba Earrings,NA,NA,$18.79 ,NA
+NA,NA,Amilia Earrings,NA,NA,$12.25 ,NA
+NA,NA,Jay Earrings | White,White,NA,$42.21 ,NA
+NA,NA,Emily Earrings,NA,NA,$17.70 ,NA
+NA,NA,The Chloe Earrings,NA,NA,$17.70 ,NA
+NA,NA,Gold Chain Bracelet,NA,NA,$26.96 ,NA
+NA,NA,India Earrings | Black,Black,NA,$17.70 ,NA
+NA,NA,Maya Earrings | Green,Green,NA,$14.98 ,NA
+NA,NA,Maya Earrings | Red,Red,NA,$14.98 ,NA
+NA,NA,Boho Short Dress | Vanilla,Vanilla,NA,$54.19 ,"M,S"
+NA,NA,Seamless Lingerie Set | Black,Black,NA,$14.98 ,"M,S"
+NA,NA,Seamless Lingerie Set | Nude,Nude,NA,$14.98 ,"M,S"
+NA,NA,Bebe Bohemian Natural Straw Hat,NA,NA,$31.31 ,NA
+NA,NA,Sana Bohemian Natural Straw Hat,NA,NA,$34.04 ,NA
+NA,NA,Maya Straw Bag,NA,NA,$42.21 ,NA
+NA,NA,Sisi Straw Bag,NA,NA,$26.96 ,NA
+NA,NA,Bronte Set | Beige,Beige,NA,$40.57 ,"L,M"
+NA,NA,Azelia Cover Up | Lilac,Lilac,NA,$39.48 ,"M,S"
+NA,NA,Zhuri Earrings,NA,NA,$17.70 ,NA
+NA,NA,Alicia Earrings | Green,Green,NA,$14.98 ,NA
+NA,NA,Catalina Belt,NA,NA,$35.13 ,NA
+NA,NA,Eleanor Blouse | Black,Black,NA,$34.04 ,NA
+NA,NA,Flow Earrings,NA,NA,$18.79 ,NA
+NA,NA,Jianna Necklace,NA,NA,$20.42 ,NA
+NA,NA,Luna Necklace,NA,NA,$26.96 ,NA
+NA,NA,Maya Triple Chain Necklace,NA,NA,$24.23 ,NA
+NA,NA,Cherry Necklace,NA,NA,$32.40 ,NA
+NA,NA,Breeze Earrings | Black,Black,NA,$17.70 ,NA
+NA,NA,Breeze Earrings | Off White,Off,NA,$17.70 ,NA
+NA,NA,Maya Earrings | Rose,Rose,NA,$14.98 ,NA
+NA,NA,Infinity Bracelet,NA,NA,$32.40 ,NA
+NA,NA,Luciana Necklace,NA,NA,$26.96 ,NA
+NA,NA,Blossom Earrings,NA,NA,$13.34 ,NA
+NA,NA,Alexandra Earrings | Orange,Orange,NA,$34.04 ,NA
+NA,NA,Bohemian Shell Hat,NA,NA,$31.31 ,NA
+NA,NA,Half Moon Beach Straw Bag / Clutch,NA,NA,$32.40 ,NA
+NA,NA,High Waisted Knickers | Seamless Underwear,Seamless,NA,$14.98 ,",L"
+NA,NA,Gold Plated Saffron Necklace,NA,NA,$36.76 ,NA
+NA,NA,Gold Plated Butterfly Necklace,NA,NA,$35.40 ,NA
+NA,NA,Gold Plated Roisin Necklace / Choker,NA,NA,$39.48 ,NA
+NA,NA,Gold Plated Pixie Necklace,NA,NA,$42.21 ,NA
+NA,NA,Gold Plated Catriona Earring,NA,NA,$26.96 ,NA
+NA,NA,Ray Belt | Gold,Gold,NA,$14.98 ,NA
+NA,NA,Ray Belt | Silver,Silver,NA,$14.98 ,NA
+NA,NA,Savannah Belt,NA,NA,$35.13 ,NA
+NA,NA,NA,NA,NA,NA,NA
